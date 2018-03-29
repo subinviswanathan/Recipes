@@ -1,0 +1,35 @@
+img {
+  width: 100%;
+  height: 300px;
+  padding: 5px;
+}
+
+.slider-container {
+  position:relative;
+}
+
+.slick-prev {
+  position:absolute;
+  top:-20px;
+  cursor:pointer;
+}
+
+.slick-next {
+  position:absolute;
+  top:-20px;
+  right:0px;
+  cursor:pointer;
+}
+
+.receipeTitle {
+  margin-bottom:20px !important;
+}
+
+.slickCarosuel {
+  margin-top:20px;
+}
+
+.slickCarosuel img{
+  cursor:pointer;
+}
+
