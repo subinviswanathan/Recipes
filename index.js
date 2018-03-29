@@ -1,6 +1,6 @@
 $('document').ready(function() {
   var recordList = [];
-  // there was some problem with the api given throwing error so made a simple JSON store a=in myjson and hitting that url to get data
+  // there was some problem with the api given throwing error so made a simple JSON store in myjson and hitting that url to get data
   //calling the api
   $.ajax({
     type: "GET",
