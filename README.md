@@ -11,3 +11,6 @@ o   Card
 
 
 The url  http://origin-www.tasteofhome.com/feed/msn-slideshows/ was throwing error while parsing  so made a simple JSON store in myjson and hitting that url to get data
+
+
+LIBRARIES USED IN THIS ARE JQUERY, BOOTSTRAP AND SLICK
